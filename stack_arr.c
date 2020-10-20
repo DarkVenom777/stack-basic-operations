@@ -1,3 +1,4 @@
+//This is the code to perform basic stack operations using Array Implementation
 #include <stdio.h>
 #define MAXSIZE 10
 int top =-1;
